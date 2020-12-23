@@ -1,6 +1,6 @@
 you need to install pickle module python -m pip install pickle on cmd
 
-***** you should run Setting for log_in first and then run log_in main, if not, Error occur
+***** you should run Setting for log_in first (only one time) and then run log_in main, if not, Error occur
 
 if you want to access one account's own old data, please add this code
 
